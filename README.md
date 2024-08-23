@@ -23,7 +23,7 @@ To run this project, you will need:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/quiz-game.git
+   https://github.com/simran487/quiz_game
    cd quiz-game
    ```
 
